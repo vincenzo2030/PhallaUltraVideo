@@ -10,6 +10,17 @@
         "lifetime": true,
         "valid": true
     },
+    "vincenzo-pc": {
+        "customer-name": "Vincenzo",
+        "processor_id": "BFEBFBFF000406F1",
+        "serial_number": "ANY",
+        "trial": false,
+        "billing-date": "2025-11-30",
+        "next-billing-date": "2099-12-31",
+        "universal-license": true,
+        "lifetime": true,
+        "valid": true
+    },
     "trial123456": {
         "customer-name": "TrialUser",
         "processor_id": "ABC123DEF456",
