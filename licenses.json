@@ -43,7 +43,7 @@
         "lifetime": false,
         "valid": true
     },
-    "universal-any-pc": {
+    "universal-any-pc1": {
         "customer-name": "Test Any PC",
         "processor_id": "ANY",
         "serial_number": "ANY",
